@@ -1,0 +1,32 @@
+
+
+.Skill-page {
+  min-height: 100vh;
+  display: flex;
+	flex: 0 1 auto;
+	flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+  
+  
+  
+
+  h1 {
+    padding: 1rem 0;
+    font-size: 3rem;
+  }
+
+  .content-grid {
+    flex: auto;
+  }
+
+  .Skill-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    padding: 5rem;
+
+  }
+}
