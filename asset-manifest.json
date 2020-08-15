@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Iam-Hamidreza/static/css/main.69c9c305.chunk.css",
+    "main.js": "/Iam-Hamidreza/static/js/main.6a96f670.chunk.js",
+    "main.js.map": "/Iam-Hamidreza/static/js/main.6a96f670.chunk.js.map",
+    "runtime-main.js": "/Iam-Hamidreza/static/js/runtime-main.c0c9983d.js",
+    "runtime-main.js.map": "/Iam-Hamidreza/static/js/runtime-main.c0c9983d.js.map",
+    "static/js/2.4fda0bae.chunk.js": "/Iam-Hamidreza/static/js/2.4fda0bae.chunk.js",
+    "static/js/2.4fda0bae.chunk.js.map": "/Iam-Hamidreza/static/js/2.4fda0bae.chunk.js.map",
+    "index.html": "/Iam-Hamidreza/index.html",
+    "precache-manifest.0ac72d4c10326c7713329111a104b436.js": "/Iam-Hamidreza/precache-manifest.0ac72d4c10326c7713329111a104b436.js",
+    "service-worker.js": "/Iam-Hamidreza/service-worker.js",
+    "static/css/main.69c9c305.chunk.css.map": "/Iam-Hamidreza/static/css/main.69c9c305.chunk.css.map",
+    "static/js/2.4fda0bae.chunk.js.LICENSE.txt": "/Iam-Hamidreza/static/js/2.4fda0bae.chunk.js.LICENSE.txt",
+    "static/js/main.6a96f670.chunk.js.LICENSE.txt": "/Iam-Hamidreza/static/js/main.6a96f670.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0c9983d.js",
+    "static/js/2.4fda0bae.chunk.js",
+    "static/css/main.69c9c305.chunk.css",
+    "static/js/main.6a96f670.chunk.js"
+  ]
+}
